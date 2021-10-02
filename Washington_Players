@@ -1,0 +1,66 @@
+playerID,playerName,teamID,majorsFlag,fortyManFlag,injuryStatus,positions,bats,throws,height,weight,dateOfBirth,serviceTime,imgUrl
+baldalb01,Alberto Baldonado,Washington Nationals,1.0,1.0,,Pitcher,Left,Left,76,250,"February 1, 1993",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4eaf70d_mlbam.jpg
+finnkyl01,Kyle Finnegan,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,74,200,"September 4, 1991",1.000,https://www.baseball-reference.com/req/202108020/images/headshots/5/56ba1da7_mlbam.jpg
+grayjos01,Josiah Gray,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,73,190,"December 21, 1997",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/d/da8d461a_mlbam.jpg
+rogejos01,Josh Rogers,Washington Nationals,1.0,1.0,,Pitcher,Left,Left,75,210,"July 10, 1994",0.143,https://www.baseball-reference.com/req/202108020/images/headshots/5/59a44c70_mlbam.jpg
+thommas01,Mason Thompson,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,79,223,"February 20, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/2/2fa668cf_mlbam.jpg
+espipao01,Paolo Espino,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,70,215,"January 10, 1987",0.078,https://www.baseball-reference.com/req/202108020/images/headshots/6/6eca6bc0_mlbam.jpg
+corbpat01,Patrick Corbin,Washington Nationals,1.0,1.0,,Pitcher,Left,Left,76,220,"July 19, 1989",8.105,https://www.baseball-reference.com/req/202108020/images/headshots/5/5d90e0e1_mlbam.jpg
+murppat01,Patrick Murphy,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,77,235,"June 10, 1995",0.028,https://www.baseball-reference.com/req/202108020/images/headshots/6/662aaa53_mlbam.jpg
+romejho01,Jhon Romero,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,70,195,"January 17, 1995",0.00,
+harpryn01,Ryne Harper,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,75,217,"March 27, 1989",2.020,https://www.baseball-reference.com/req/202108020/images/headshots/7/73f98110_mlbam.jpg
+fedderi01,Erick Fedde,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,76,200,"February 25, 1993",2.099,https://www.baseball-reference.com/req/202108020/images/headshots/4/49f9de62_mlbam.jpg
+nolisea01,Sean Nolin,Washington Nationals,1.0,1.0,,Pitcher,Left,Left,76,250,"December 26, 1989",1.100,https://www.baseball-reference.com/req/202108020/images/headshots/6/66e4d325_mlbam.jpg
+vothaus01,Austin Voth,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,74,211,"June 26, 1992",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/5/5e778622_mlbam.jpg
+raintan01,Tanner Rainey,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,74,247,"December 25, 1992",1.158,https://www.baseball-reference.com/req/202108020/images/headshots/6/6d44c771_mlbam.jpg
+machand01,Andres Machado,Washington Nationals,1.0,1.0,,Pitcher,Right,Right,72,220,"April 22, 1993",0.032,https://www.baseball-reference.com/req/202108020/images/headshots/6/6cb2c853_mlbam.jpg
+zimmrya01,Ryan Zimmerman,Washington Nationals,1.0,1.0,,Third Baseman and First Baseman,Right,Right,75,215,"September 28, 1984",14.032,https://www.baseball-reference.com/req/202108020/images/headshots/b/bbacdbb5_mlbam.jpg
+adamril01,Riley Adams,Washington Nationals,1.0,1.0,,Catcher and Pinch Hitter,Right,Right,76,246,"June 26, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/5/5c1c52b0_mlbam.jpg
+hernyad01,Yadiel Hernández,Washington Nationals,1.0,1.0,,Leftfielder and Pinch Hitter,Left,Right,70,188,"October 9, 1987",0.047,https://www.baseball-reference.com/req/202108020/images/headshots/f/f42b32b0_mlbam.jpg
+garclui01,Luis Garcia,Washington Nationals,1.0,1.0,,Second Baseman and Shortstop,Left,Right,74,224,"May 16, 2000",0.125,https://www.baseball-reference.com/req/202108020/images/headshots/4/4b862729_mlbam.jpg
+thomlan01,Lane Thomas,Washington Nationals,1.0,1.0,,Outfielder,Right,Right,72,185,"August 23, 1995",1.068,https://www.baseball-reference.com/req/202108020/images/headshots/b/baa0b47a_mlbam.jpg
+escoalc01,Alcides Escobar,Washington Nationals,1.0,1.0,,Shortstop,Right,Right,73,205,"December 16, 1986",9.082,https://www.baseball-reference.com/req/202108020/images/headshots/d/d1953010_mlbam.jpg
+ruizkei01,Keibert Ruiz,Washington Nationals,1.0,1.0,,Catcher,Both,Right,72,225,"July 20, 1998",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/d/d80d2c11_mlbam.jpg
+sotojua01,Juan Soto,Washington Nationals,1.0,1.0,,Outfielder,Left,Left,74,224,"October 25, 1998",2.134,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36a85e0_mlbam.jpg
+belljos01,Josh Bell,Washington Nationals,1.0,1.0,,First Baseman,Both,Right,76,255,"August 14, 1992",4.053,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36fd0ee_mlbam.jpg
+avilale01,Alex Avila,Washington Nationals,1.0,1.0,,Catcher and First Baseman,Left,Right,71,228,"January 29, 1987",11.061,https://www.baseball-reference.com/req/202108020/images/headshots/6/6b72d623_mlbam.jpg
+mercjor01,Jordy Mercer,Washington Nationals,1.0,1.0,,Shortstop and Second Baseman,Right,Right,75,210,"August 27, 1986",7.156,https://www.baseball-reference.com/req/202108020/images/headshots/5/530f3125_mlbam.jpg
+stevand01,Andrew Stevenson,Washington Nationals,1.0,1.0,,Pinch Hitter and Outfielder,Left,Left,72,192,"June 1, 1994",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/2/2affeb81_mlbam.jpg
+kiebcar01,Carter Kieboom,Washington Nationals,1.0,1.0,,Third Baseman and Shortstop,Right,Right,74,215,"September 3, 1997",1.001,https://www.baseball-reference.com/req/202108020/images/headshots/0/0f76be24_mlbam.jpg
+parrger01,Gerardo Parra,Washington Nationals,1.0,1.0,10,Outfielder,Left,Left,71,210,"May 6, 1987",10.145,https://www.baseball-reference.com/req/202108020/images/headshots/d/d86f5cd5_mlbam.jpg
+avillui01,Luis Avilan,Washington Nationals,1.0,1.0,60,Pitcher,Left,Left,74,220,"July 19, 1989",7.077,https://www.baseball-reference.com/req/202108020/images/headshots/c/c7f3cea9_mlbam.jpg
+rossjoe01,Joe Ross,Washington Nationals,1.0,1.0,60,Pitcher,Right,Right,76,223,"May 21, 1993",4.018,https://www.baseball-reference.com/req/202108020/images/headshots/b/b625756d_mlbam.jpg
+harrwil01,Will Harris,Washington Nationals,1.0,1.0,60,Pitcher,Right,Right,76,236,"August 28, 1984",7.102,https://www.baseball-reference.com/req/202108020/images/headshots/b/b4b0ee98_mlbam.jpg
+mcgokyl01,Kyle McGowin,Washington Nationals,1.0,1.0,60,Pitcher,Right,Right,75,202,"November 27, 1991",0.141,https://www.baseball-reference.com/req/202108020/images/headshots/f/f7a7172c_mlbam.jpg
+straste01,Stephen Strasburg,Washington Nationals,1.0,1.0,60,Pitcher,Right,Right,77,240,"July 20, 1988",10.118,https://www.baseball-reference.com/req/202108020/images/headshots/1/134bc61f_mlbam.jpg
+claysam01,Sam Clay,Washington Nationals,0.0,0.0,,Pitcher,Left,Left,75,227,"June 21, 1993",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/f/fa9f6654_mlbam.jpg
+suerwan01,Wander Suero,Washington Nationals,0.0,0.0,,Pitcher,Right,Right,76,216,"September 15, 1991",2.123,https://www.baseball-reference.com/req/202108020/images/headshots/f/f9be3b60_mlbam.jpg
+fuenste01,Steven Fuentes,Washington Nationals,0.0,0.0,,Relief Pitcher,Right,Right,74,241,"May 4, 1997",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4ab282e_mlbam.jpg
+romeset01,Seth Romero,Washington Nationals,0.0,0.0,,Starting Pitcher,Left,Left,75,225,"April 19, 1996",0.128,https://www.baseball-reference.com/req/202108020/images/headshots/b/b801cbcd_mlbam.jpg
+klobgab01,Gabe Klobosits,Washington Nationals,0.0,0.0,,Pitcher,Left,Right,79,270,"May 16, 1995",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a09a06e2_mlbam.jpg
+carrger01,Gerardo Carrillo,Washington Nationals,0.0,0.0,,Starting Pitcher,Right,Right,70,170,"September 13, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a06e14f1_mlbam.jpg
+adonjoa01,Joan Adon,Washington Nationals,0.0,0.0,,Pitcher,Right,Right,74,242,"August 12, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/d/d4b6b510_mlbam.jpg
+barrtre01,Tres Barrera,Washington Nationals,0.0,0.0,,Catcher,Right,Right,72,206,"September 15, 1994",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/4/4271f421_mlbam.jpg
+roblvic01,Victor Robles,Washington Nationals,0.0,0.0,,Centerfielder,Right,Right,72,205,"May 19, 1997",2.052,https://www.baseball-reference.com/req/202108020/images/headshots/b/bab8e489_mlbam.jpg
+fordmik01,Mike Ford,Washington Nationals,0.0,0.0,,First Baseman,Left,Right,72,225,"July 4, 1992",1.061,https://www.baseball-reference.com/req/202108020/images/headshots/e/ee192a64_mlbam.jpg
+antuyas01,Yasel Antuna,Washington Nationals,0.0,0.0,,"Shortstop, Third Baseman and Second Baseman",Both,Right,72,195,"October 26, 1999",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a1539cab_mlbam.jpg
+artehum01,Humberto Arteaga,Washington Nationals,0.0,0.0,,Shortstop and Second Baseman,Right,Right,73,160,"January 23, 1994",0.102,https://www.baseball-reference.com/req/202108020/images/headshots/1/1b0aa820_mlbam.jpg
+caststa01,Starlin Castro,,,,,"Shortstop, Second Baseman and Third Baseman",Right,Right,74,218,"March 24, 1990",10.150,https://www.baseball-reference.com/req/202108020/images/headshots/6/6e20abd5_mlbam.jpg
+gomeyan01,Yan Gomes,Oakland Athletics,1.0,1.0,,Catcher,Right,Right,74,212,"July 19, 1987",8.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/094fd471_mlbam.jpg
+guerjav01,Javy Guerra,,,,,Pitcher,Right,Right,73,215,"October 31, 1985",5.145,https://www.baseball-reference.com/req/202108020/images/headshots/f/f4f9ed74_mlbam.jpg
+handbra01,Brad Hand,New York Mets,1.0,1.0,,Pitcher,Left,Left,75,224,"March 20, 1990",7.092,https://www.baseball-reference.com/req/202108020/images/headshots/1/132ead8b_mlbam.jpg
+harrjos01,Josh Harrison,Oakland Athletics,1.0,1.0,,"Second Baseman, Third Baseman and Outfielder",Right,Right,68,190,"July 8, 1987",8.168,https://www.baseball-reference.com/req/202108020/images/headshots/f/f5e29f53_mlbam.jpg
+hudsdan01,Daniel Hudson,San Diego Padres,1.0,1.0,,Pitcher,Right,Right,75,215,"March 9, 1987",10.106,https://www.baseball-reference.com/req/202108020/images/headshots/e/e8351f08_mlbam.jpg
+lestjon01,Jon Lester,St. Louis Cardinals,1.0,1.0,,Pitcher,Left,Left,76,249,"January 7, 1984",14.075,https://www.baseball-reference.com/req/202108020/images/headshots/0/0d6b6af2_mlbam.jpg
+lobskyl01,Kyle Lobstein,Milwaukee Brewers,0.0,0.0,,Pitcher,Left,Left,75,220,"August 12, 1989",1.088,https://www.baseball-reference.com/req/202108020/images/headshots/6/688c291a_mlbam.jpg
+lucrjon01,Jonathan Lucroy,,,,,Catcher and First Baseman,Right,Right,72,200,"June 13, 1986",9.164,https://www.baseball-reference.com/req/202108020/images/headshots/0/089b7000_mlbam.jpg
+milljus01,Justin Miller,St. Louis Cardinals,1.0,1.0,10,Pitcher,Right,Right,75,225,"June 13, 1987",3.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/01ebc3b2_mlbam.jpg
+pereher01,Hernan Perez,,,,,"Third Baseman, Outfielder and Second Baseman",Right,Right,73,213,"March 26, 1991",5.100,https://www.baseball-reference.com/req/202108020/images/headshots/0/0dda67aa_mlbam.jpg
+reetjak01,Jakson Reetz,Washington Nationals,0.0,0.0,,Pinch Hitter and Catcher,Right,Right,72,205,"January 3, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/7/740e5f57_mlbam.jpg
+riveren01,Rene Rivera,,,,,Catcher,Right,Right,70,215,"July 31, 1983",8.107,https://www.baseball-reference.com/req/202108020/images/headshots/b/b09b2edb_mlbam.jpg
+rodrjef01,Jefry Rodriguez,Washington Nationals,0.0,0.0,,Pitcher,Right,Right,78,232,"July 26, 1993",1.089,https://www.baseball-reference.com/req/202108020/images/headshots/4/485bfafd_mlbam.jpg
+sancadr01,Adrian Sanchez,Washington Nationals,0.0,0.0,,"Pinch Hitter, Second Baseman and Third Baseman",Right,Right,72,208,"August 16, 1990",1.083,https://www.baseball-reference.com/req/202108020/images/headshots/2/2ead3b85_mlbam.jpg
+schemax01,Max Scherzer,Los Angeles Dodgers,1.0,1.0,,Pitcher,Right,Right,75,208,"July 27, 1984",12.079,https://www.baseball-reference.com/req/202108020/images/headshots/6/65381047_mlbam.jpg
+schwkyl01,Kyle Schwarber,Boston Red Sox,1.0,1.0,,Leftfielder and Catcher,Left,Right,72,229,"March 5, 1993",5.086,https://www.baseball-reference.com/req/202108020/images/headshots/2/2a82d8dc_mlbam.jpg
+turntre01,Trea Turner,Los Angeles Dodgers,1.0,1.0,,"Shortstop, Second Baseman and Centerfielder",Right,Right,74,185,"June 30, 1993",4.135,https://www.baseball-reference.com/req/202108020/images/headshots/7/7ba8f9ac_mlbam.jpg
+wilscod01,Cody Wilson,Washington Nationals,0.0,0.0,,Pinch Hitter,Right,Right,74,200,"July 4, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c076985f_mlbam.jpg

@@ -1,66 +1,66 @@
 playerID,playerName,teamID,majorsFlag,fortyManFlag,injuryStatus,positions,bats,throws,height,weight,dateOfBirth,serviceTime,imgUrl
-baldalb01,Alberto Baldonado,WSN,1.0,1.0,,Pitcher,L,L,76,250,"February 1, 1993",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4eaf70d_mlbam.jpg
-finnkyl01,Kyle Finnegan,WSN,1.0,1.0,,Pitcher,R,R,74,200,"September 4, 1991",1.000,https://www.baseball-reference.com/req/202108020/images/headshots/5/56ba1da7_mlbam.jpg
-grayjos01,Josiah Gray,WSN,1.0,1.0,,Pitcher,R,R,73,190,"December 21, 1997",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/d/da8d461a_mlbam.jpg
-thommas01,Mason Thompson,WSN,1.0,1.0,,Pitcher,R,R,79,223,"February 20, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/2/2fa668cf_mlbam.jpg
-espipao01,Paolo Espino,WSN,1.0,1.0,,Pitcher,R,R,70,215,"January 10, 1987",0.078,https://www.baseball-reference.com/req/202108020/images/headshots/6/6eca6bc0_mlbam.jpg
-corbpat01,Patrick Corbin,WSN,1.0,1.0,,Pitcher,L,L,76,220,"July 19, 1989",8.105,https://www.baseball-reference.com/req/202108020/images/headshots/5/5d90e0e1_mlbam.jpg
-murppat01,Patrick Murphy,WSN,1.0,1.0,,Pitcher,R,R,77,235,"June 10, 1995",0.028,https://www.baseball-reference.com/req/202108020/images/headshots/6/662aaa53_mlbam.jpg
-romejho01,Jhon Romero,WSN,1.0,1.0,,Pitcher,R,R,70,195,"January 17, 1995",0.00,
-harpryn01,Ryne Harper,WSN,1.0,1.0,,Pitcher,R,R,75,217,"March 27, 1989",2.020,https://www.baseball-reference.com/req/202108020/images/headshots/7/73f98110_mlbam.jpg
-fedderi01,Erick Fedde,WSN,1.0,1.0,,Pitcher,R,R,76,200,"February 25, 1993",2.099,https://www.baseball-reference.com/req/202108020/images/headshots/4/49f9de62_mlbam.jpg
-nolisea01,Sean Nolin,WSN,1.0,1.0,,Pitcher,L,L,76,250,"December 26, 1989",1.100,https://www.baseball-reference.com/req/202108020/images/headshots/6/66e4d325_mlbam.jpg
-vothaus01,Austin Voth,WSN,1.0,1.0,,Pitcher,R,R,74,211,"June 26, 1992",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/5/5e778622_mlbam.jpg
-raintan01,Tanner Rainey,WSN,1.0,1.0,,Pitcher,R,R,74,247,"December 25, 1992",1.158,https://www.baseball-reference.com/req/202108020/images/headshots/6/6d44c771_mlbam.jpg
-machand01,Andres Machado,WSN,1.0,1.0,,Pitcher,R,R,72,220,"April 22, 1993",0.032,https://www.baseball-reference.com/req/202108020/images/headshots/6/6cb2c853_mlbam.jpg
-zimmrya01,Ryan Zimmerman,WSN,1.0,1.0,,Third Baseman and First Baseman,R,R,75,215,"September 28, 1984",14.032,https://www.baseball-reference.com/req/202108020/images/headshots/b/bbacdbb5_mlbam.jpg
-adamril01,Riley Adams,WSN,1.0,1.0,,Catcher and Pinch Hitter,R,R,76,246,"June 26, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/5/5c1c52b0_mlbam.jpg
-garclui01,Luis Garcia,WSN,1.0,1.0,,Second Baseman and Shortstop,L,R,74,224,"May 16, 2000",0.125,https://www.baseball-reference.com/req/202108020/images/headshots/4/4b862729_mlbam.jpg
-hernyad01,Yadiel Hernández,WSN,1.0,1.0,,Leftfielder and Pinch Hitter,L,R,70,188,"October 9, 1987",0.047,https://www.baseball-reference.com/req/202108020/images/headshots/f/f42b32b0_mlbam.jpg
-thomlan01,Lane Thomas,WSN,1.0,1.0,,Outfielder,R,R,72,185,"August 23, 1995",1.068,https://www.baseball-reference.com/req/202108020/images/headshots/b/baa0b47a_mlbam.jpg
-escoalc01,Alcides Escobar,WSN,1.0,1.0,,Shortstop,R,R,73,205,"December 16, 1986",9.082,https://www.baseball-reference.com/req/202108020/images/headshots/d/d1953010_mlbam.jpg
-sotojua01,Juan Soto,WSN,1.0,1.0,,Outfielder,L,L,74,224,"October 25, 1998",2.134,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36a85e0_mlbam.jpg
-kiebcar01,Carter Kieboom,WSN,1.0,1.0,,Third Baseman and Shortstop,R,R,74,215,"September 3, 1997",1.001,https://www.baseball-reference.com/req/202108020/images/headshots/0/0f76be24_mlbam.jpg
-belljos01,Josh Bell,WSN,1.0,1.0,,First Baseman and Outfielder,B,R,76,255,"August 14, 1992",4.053,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36fd0ee_mlbam.jpg
-avilale01,Alex Avila,WSN,1.0,1.0,,Catcher and First Baseman,L,R,71,228,"January 29, 1987",11.061,https://www.baseball-reference.com/req/202108020/images/headshots/6/6b72d623_mlbam.jpg
-mercjor01,Jordy Mercer,WSN,1.0,1.0,,Shortstop and Second Baseman,R,R,75,210,"August 27, 1986",7.156,https://www.baseball-reference.com/req/202108020/images/headshots/5/530f3125_mlbam.jpg
-stevand01,Andrew Stevenson,WSN,1.0,1.0,,Pinch Hitter and Outfielder,L,L,72,192,"June 1, 1994",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/2/2affeb81_mlbam.jpg
-ruizkei01,Keibert Ruiz,WSN,1.0,1.0,,Catcher,B,R,72,225,"July 20, 1998",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/d/d80d2c11_mlbam.jpg
-parrger01,Gerardo Parra,WSN,1.0,1.0,,Outfielder,L,L,71,210,"May 6, 1987",10.145,https://www.baseball-reference.com/req/202108020/images/headshots/d/d86f5cd5_mlbam.jpg
-rogejos01,Josh Rogers,WSN,1.0,1.0,10,Pitcher,L,L,75,210,"July 10, 1994",0.143,https://www.baseball-reference.com/req/202108020/images/headshots/5/59a44c70_mlbam.jpg
-rossjoe01,Joe Ross,WSN,1.0,1.0,60,Pitcher,R,R,76,223,"May 21, 1993",4.018,https://www.baseball-reference.com/req/202108020/images/headshots/b/b625756d_mlbam.jpg
-straste01,Stephen Strasburg,WSN,1.0,1.0,60,Pitcher,R,R,77,240,"July 20, 1988",10.118,https://www.baseball-reference.com/req/202108020/images/headshots/1/134bc61f_mlbam.jpg
-harrwil01,Will Harris,WSN,1.0,1.0,60,Pitcher,R,R,76,236,"August 28, 1984",7.102,https://www.baseball-reference.com/req/202108020/images/headshots/b/b4b0ee98_mlbam.jpg
-avillui01,Luis Avilan,WSN,1.0,1.0,60,Pitcher,L,L,74,220,"July 19, 1989",7.077,https://www.baseball-reference.com/req/202108020/images/headshots/c/c7f3cea9_mlbam.jpg
-mcgokyl01,Kyle McGowin,WSN,1.0,1.0,60,Pitcher,R,R,75,202,"November 27, 1991",0.141,https://www.baseball-reference.com/req/202108020/images/headshots/f/f7a7172c_mlbam.jpg
-suerwan01,Wander Suero,WSN,0.0,0.0,,Pitcher,R,R,76,216,"September 15, 1991",2.123,https://www.baseball-reference.com/req/202108020/images/headshots/f/f9be3b60_mlbam.jpg
-klobgab01,Gabe Klobosits,WSN,0.0,0.0,,Pitcher,L,R,79,270,"May 16, 1995",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a09a06e2_mlbam.jpg
-fuenste01,Steven Fuentes,WSN,0.0,0.0,,Relief Pitcher,R,R,74,241,"May 4, 1997",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4ab282e_mlbam.jpg
-romeset01,Seth Romero,WSN,0.0,0.0,,Starting Pitcher,L,L,75,225,"April 19, 1996",0.128,https://www.baseball-reference.com/req/202108020/images/headshots/b/b801cbcd_mlbam.jpg
-claysam01,Sam Clay,WSN,0.0,0.0,,Pitcher,L,L,75,227,"June 21, 1993",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/f/fa9f6654_mlbam.jpg
-carrger01,Gerardo Carrillo,WSN,0.0,0.0,,Starting Pitcher,R,R,70,170,"September 13, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a06e14f1_mlbam.jpg
-adonjoa01,Joan Adon,WSN,0.0,0.0,,Pitcher,R,R,74,242,"August 12, 1998",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/d/d4b6b510_mlbam.jpg
-barrtre01,Tres Barrera,WSN,0.0,0.0,,Catcher,R,R,72,206,"September 15, 1994",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/4/4271f421_mlbam.jpg
-roblvic01,Victor Robles,WSN,0.0,0.0,,Centerfielder,R,R,72,205,"May 19, 1997",2.052,https://www.baseball-reference.com/req/202108020/images/headshots/b/bab8e489_mlbam.jpg
-fordmik01,Mike Ford,WSN,0.0,0.0,,First Baseman,L,R,72,225,"July 4, 1992",1.061,https://www.baseball-reference.com/req/202108020/images/headshots/e/ee192a64_mlbam.jpg
-antuyas01,Yasel Antuna,WSN,0.0,0.0,,"Shortstop, Third Baseman and Second Baseman",B,R,72,195,"October 26, 1999",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/a/a1539cab_mlbam.jpg
-artehum01,Humberto Arteaga,WSN,0.0,0.0,,Shortstop and Second Baseman,R,R,73,160,"January 23, 1994",0.102,https://www.baseball-reference.com/req/202108020/images/headshots/1/1b0aa820_mlbam.jpg
-caststa01,Starlin Castro,,,,,"Shortstop, Second Baseman and Third Baseman",R,R,74,218,"March 24, 1990",10.150,https://www.baseball-reference.com/req/202108020/images/headshots/6/6e20abd5_mlbam.jpg
-gomeyan01,Yan Gomes,OAK,1.0,1.0,,Catcher,R,R,74,212,"July 19, 1987",8.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/094fd471_mlbam.jpg
+baldalb01,Alberto Baldonado,30,1,1,,Pitcher,L,L,76,250,"February 1, 1993",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4eaf70d_mlbam.jpg
+finnkyl01,Kyle Finnegan,30,1,1,,Pitcher,R,R,74,200,"September 4, 1991",1.0,https://www.baseball-reference.com/req/202108020/images/headshots/5/56ba1da7_mlbam.jpg
+grayjos01,Josiah Gray,30,1,1,,Pitcher,R,R,73,190,"December 21, 1997",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/d/da8d461a_mlbam.jpg
+thommas01,Mason Thompson,30,1,1,,Pitcher,R,R,79,223,"February 20, 1998",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/2/2fa668cf_mlbam.jpg
+espipao01,Paolo Espino,30,1,1,,Pitcher,R,R,70,215,"January 10, 1987",0.078,https://www.baseball-reference.com/req/202108020/images/headshots/6/6eca6bc0_mlbam.jpg
+corbpat01,Patrick Corbin,30,1,1,,Pitcher,L,L,76,220,"July 19, 1989",8.105,https://www.baseball-reference.com/req/202108020/images/headshots/5/5d90e0e1_mlbam.jpg
+murppat01,Patrick Murphy,30,1,1,,Pitcher,R,R,77,235,"June 10, 1995",0.028,https://www.baseball-reference.com/req/202108020/images/headshots/6/662aaa53_mlbam.jpg
+romejho01,Jhon Romero,30,1,1,,Pitcher,R,R,70,195,"January 17, 1995",0.0,
+harpryn01,Ryne Harper,30,1,1,,Pitcher,R,R,75,217,"March 27, 1989",2.02,https://www.baseball-reference.com/req/202108020/images/headshots/7/73f98110_mlbam.jpg
+fedderi01,Erick Fedde,30,1,1,,Pitcher,R,R,76,200,"February 25, 1993",2.099,https://www.baseball-reference.com/req/202108020/images/headshots/4/49f9de62_mlbam.jpg
+nolisea01,Sean Nolin,30,1,1,,Pitcher,L,L,76,250,"December 26, 1989",1.1,https://www.baseball-reference.com/req/202108020/images/headshots/6/66e4d325_mlbam.jpg
+vothaus01,Austin Voth,30,1,1,,Pitcher,R,R,74,211,"June 26, 1992",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/5/5e778622_mlbam.jpg
+raintan01,Tanner Rainey,30,1,1,,Pitcher,R,R,74,247,"December 25, 1992",1.158,https://www.baseball-reference.com/req/202108020/images/headshots/6/6d44c771_mlbam.jpg
+machand01,Andres Machado,30,1,1,,Pitcher,R,R,72,220,"April 22, 1993",0.032,https://www.baseball-reference.com/req/202108020/images/headshots/6/6cb2c853_mlbam.jpg
+zimmrya01,Ryan Zimmerman,30,1,1,,Third Baseman and First Baseman,R,R,75,215,"September 28, 1984",14.032,https://www.baseball-reference.com/req/202108020/images/headshots/b/bbacdbb5_mlbam.jpg
+adamril01,Riley Adams,30,1,1,,Catcher and Pinch Hitter,R,R,76,246,"June 26, 1996",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/5/5c1c52b0_mlbam.jpg
+garclui01,Luis Garcia,30,1,1,,Second Baseman and Shortstop,L,R,74,224,"May 16, 2000",0.125,https://www.baseball-reference.com/req/202108020/images/headshots/4/4b862729_mlbam.jpg
+hernyad01,Yadiel Hernández,30,1,1,,Leftfielder and Pinch Hitter,L,R,70,188,"October 9, 1987",0.047,https://www.baseball-reference.com/req/202108020/images/headshots/f/f42b32b0_mlbam.jpg
+thomlan01,Lane Thomas,30,1,1,,Outfielder,R,R,72,185,"August 23, 1995",1.068,https://www.baseball-reference.com/req/202108020/images/headshots/b/baa0b47a_mlbam.jpg
+escoalc01,Alcides Escobar,30,1,1,,Shortstop,R,R,73,205,"December 16, 1986",9.082,https://www.baseball-reference.com/req/202108020/images/headshots/d/d1953010_mlbam.jpg
+sotojua01,Juan Soto,30,1,1,,Outfielder,L,L,74,224,"October 25, 1998",2.134,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36a85e0_mlbam.jpg
+kiebcar01,Carter Kieboom,30,1,1,,Third Baseman and Shortstop,R,R,74,215,"September 3, 1997",1.001,https://www.baseball-reference.com/req/202108020/images/headshots/0/0f76be24_mlbam.jpg
+belljos01,Josh Bell,30,1,1,,First Baseman and Outfielder,B,R,76,255,"August 14, 1992",4.053,https://www.baseball-reference.com/req/202108020/images/headshots/e/e36fd0ee_mlbam.jpg
+avilale01,Alex Avila,30,1,1,,Catcher and First Baseman,L,R,71,228,"January 29, 1987",11.061,https://www.baseball-reference.com/req/202108020/images/headshots/6/6b72d623_mlbam.jpg
+mercjor01,Jordy Mercer,30,1,1,,Shortstop and Second Baseman,R,R,75,210,"August 27, 1986",7.1560000000000015,https://www.baseball-reference.com/req/202108020/images/headshots/5/530f3125_mlbam.jpg
+stevand01,Andrew Stevenson,30,1,1,,Pinch Hitter and Outfielder,L,L,72,192,"June 1, 1994",1.127,https://www.baseball-reference.com/req/202108020/images/headshots/2/2affeb81_mlbam.jpg
+ruizkei01,Keibert Ruiz,30,1,1,,Catcher,B,R,72,225,"July 20, 1998",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/d/d80d2c11_mlbam.jpg
+parrger01,Gerardo Parra,30,1,1,,Outfielder,L,L,71,210,"May 6, 1987",10.145,https://www.baseball-reference.com/req/202108020/images/headshots/d/d86f5cd5_mlbam.jpg
+rogejos01,Josh Rogers,30,1,1,10.0,Pitcher,L,L,75,210,"July 10, 1994",0.14300000000000002,https://www.baseball-reference.com/req/202108020/images/headshots/5/59a44c70_mlbam.jpg
+rossjoe01,Joe Ross,30,1,1,60.0,Pitcher,R,R,76,223,"May 21, 1993",4.018,https://www.baseball-reference.com/req/202108020/images/headshots/b/b625756d_mlbam.jpg
+straste01,Stephen Strasburg,30,1,1,60.0,Pitcher,R,R,77,240,"July 20, 1988",10.118,https://www.baseball-reference.com/req/202108020/images/headshots/1/134bc61f_mlbam.jpg
+harrwil01,Will Harris,30,1,1,60.0,Pitcher,R,R,76,236,"August 28, 1984",7.102,https://www.baseball-reference.com/req/202108020/images/headshots/b/b4b0ee98_mlbam.jpg
+avillui01,Luis Avilan,30,1,1,60.0,Pitcher,L,L,74,220,"July 19, 1989",7.077000000000001,https://www.baseball-reference.com/req/202108020/images/headshots/c/c7f3cea9_mlbam.jpg
+mcgokyl01,Kyle McGowin,30,1,1,60.0,Pitcher,R,R,75,202,"November 27, 1991",0.141,https://www.baseball-reference.com/req/202108020/images/headshots/f/f7a7172c_mlbam.jpg
+suerwan01,Wander Suero,30,0,0,,Pitcher,R,R,76,216,"September 15, 1991",2.123,https://www.baseball-reference.com/req/202108020/images/headshots/f/f9be3b60_mlbam.jpg
+klobgab01,Gabe Klobosits,30,0,0,,Pitcher,L,R,79,270,"May 16, 1995",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/a/a09a06e2_mlbam.jpg
+fuenste01,Steven Fuentes,30,0,0,,Relief Pitcher,R,R,74,241,"May 4, 1997",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/c/c4ab282e_mlbam.jpg
+romeset01,Seth Romero,30,0,0,,Starting Pitcher,L,L,75,225,"April 19, 1996",0.128,https://www.baseball-reference.com/req/202108020/images/headshots/b/b801cbcd_mlbam.jpg
+claysam01,Sam Clay,30,0,0,,Pitcher,L,L,75,227,"June 21, 1993",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/f/fa9f6654_mlbam.jpg
+carrger01,Gerardo Carrillo,30,0,0,,Starting Pitcher,R,R,70,170,"September 13, 1998",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/a/a06e14f1_mlbam.jpg
+adonjoa01,Joan Adon,30,0,0,,Pitcher,R,R,74,242,"August 12, 1998",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/d/d4b6b510_mlbam.jpg
+barrtre01,Tres Barrera,30,0,0,,Catcher,R,R,72,206,"September 15, 1994",0.022,https://www.baseball-reference.com/req/202108020/images/headshots/4/4271f421_mlbam.jpg
+roblvic01,Victor Robles,30,0,0,,Centerfielder,R,R,72,205,"May 19, 1997",2.052,https://www.baseball-reference.com/req/202108020/images/headshots/b/bab8e489_mlbam.jpg
+fordmik01,Mike Ford,30,0,0,,First Baseman,L,R,72,225,"July 4, 1992",1.061,https://www.baseball-reference.com/req/202108020/images/headshots/e/ee192a64_mlbam.jpg
+antuyas01,Yasel Antuna,30,0,0,,"Shortstop, Third Baseman and Second Baseman",B,R,72,195,"October 26, 1999",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/a/a1539cab_mlbam.jpg
+artehum01,Humberto Arteaga,30,0,0,,Shortstop and Second Baseman,R,R,73,160,"January 23, 1994",0.102,https://www.baseball-reference.com/req/202108020/images/headshots/1/1b0aa820_mlbam.jpg
+caststa01,Starlin Castro,,,,,"Shortstop, Second Baseman and Third Baseman",R,R,74,218,"March 24, 1990",10.15,https://www.baseball-reference.com/req/202108020/images/headshots/6/6e20abd5_mlbam.jpg
+gomeyan01,Yan Gomes,20,1,1,,Catcher,R,R,74,212,"July 19, 1987",8.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/094fd471_mlbam.jpg
 guerjav01,Javy Guerra,,,,,Pitcher,R,R,73,215,"October 31, 1985",5.145,https://www.baseball-reference.com/req/202108020/images/headshots/f/f4f9ed74_mlbam.jpg
-handbra01,Brad Hand,NYM,1.0,1.0,,Pitcher,L,L,75,224,"March 20, 1990",7.092,https://www.baseball-reference.com/req/202108020/images/headshots/1/132ead8b_mlbam.jpg
-harrjos01,Josh Harrison,OAK,1.0,1.0,,"Second Baseman, Third Baseman and Outfielder",R,R,68,190,"July 8, 1987",8.168,https://www.baseball-reference.com/req/202108020/images/headshots/f/f5e29f53_mlbam.jpg
-hudsdan01,Daniel Hudson,SDP,1.0,1.0,,Pitcher,R,R,75,215,"March 9, 1987",10.106,https://www.baseball-reference.com/req/202108020/images/headshots/e/e8351f08_mlbam.jpg
-lestjon01,Jon Lester,STL,1.0,1.0,,Pitcher,L,L,76,249,"January 7, 1984",14.075,https://www.baseball-reference.com/req/202108020/images/headshots/0/0d6b6af2_mlbam.jpg
-lobskyl01,Kyle Lobstein,MIL,0.0,0.0,,Pitcher,L,L,75,220,"August 12, 1989",1.088,https://www.baseball-reference.com/req/202108020/images/headshots/6/688c291a_mlbam.jpg
+handbra01,Brad Hand,19,1,1,,Pitcher,L,L,75,224,"March 20, 1990",7.0920000000000005,https://www.baseball-reference.com/req/202108020/images/headshots/1/132ead8b_mlbam.jpg
+harrjos01,Josh Harrison,20,1,1,,"Second Baseman, Third Baseman and Outfielder",R,R,68,190,"July 8, 1987",8.168,https://www.baseball-reference.com/req/202108020/images/headshots/f/f5e29f53_mlbam.jpg
+hudsdan01,Daniel Hudson,23,1,1,,Pitcher,R,R,75,215,"March 9, 1987",10.106,https://www.baseball-reference.com/req/202108020/images/headshots/e/e8351f08_mlbam.jpg
+lestjon01,Jon Lester,26,1,1,,Pitcher,L,L,76,249,"January 7, 1984",14.075,https://www.baseball-reference.com/req/202108020/images/headshots/0/0d6b6af2_mlbam.jpg
+lobskyl01,Kyle Lobstein,16,0,0,,Pitcher,L,L,75,220,"August 12, 1989",1.088,https://www.baseball-reference.com/req/202108020/images/headshots/6/688c291a_mlbam.jpg
 lucrjon01,Jonathan Lucroy,,,,,Catcher and First Baseman,R,R,72,200,"June 13, 1986",9.164,https://www.baseball-reference.com/req/202108020/images/headshots/0/089b7000_mlbam.jpg
-milljus01,Justin Miller,STL,1.0,1.0,10,Pitcher,R,R,75,225,"June 13, 1987",3.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/01ebc3b2_mlbam.jpg
-pereher01,Hernan Perez,,,,,"Third Baseman, Outfielder and Second Baseman",R,R,73,213,"March 26, 1991",5.100,https://www.baseball-reference.com/req/202108020/images/headshots/0/0dda67aa_mlbam.jpg
-reetjak01,Jakson Reetz,WSN,0.0,0.0,,Pinch Hitter and Catcher,R,R,72,205,"January 3, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/7/740e5f57_mlbam.jpg
-riveren01,Rene Rivera,,,,,Catcher,R,R,70,215,"July 31, 1983",8.107,https://www.baseball-reference.com/req/202108020/images/headshots/b/b09b2edb_mlbam.jpg
-rodrjef01,Jefry Rodriguez,WSN,0.0,0.0,,Pitcher,R,R,78,232,"July 26, 1993",1.089,https://www.baseball-reference.com/req/202108020/images/headshots/4/485bfafd_mlbam.jpg
-sancadr01,Adrian Sanchez,WSN,0.0,0.0,,"Pinch Hitter, Second Baseman and Third Baseman",R,R,72,208,"August 16, 1990",1.083,https://www.baseball-reference.com/req/202108020/images/headshots/2/2ead3b85_mlbam.jpg
-schemax01,Max Scherzer,LAD,1.0,1.0,,Pitcher,R,R,75,208,"July 27, 1984",12.079,https://www.baseball-reference.com/req/202108020/images/headshots/6/65381047_mlbam.jpg
-schwkyl01,Kyle Schwarber,BOS,1.0,1.0,,Leftfielder and Catcher,L,R,72,229,"March 5, 1993",5.086,https://www.baseball-reference.com/req/202108020/images/headshots/2/2a82d8dc_mlbam.jpg
-turntre01,Trea Turner,LAD,1.0,1.0,,"Shortstop, Second Baseman and Centerfielder",R,R,74,185,"June 30, 1993",4.135,https://www.baseball-reference.com/req/202108020/images/headshots/7/7ba8f9ac_mlbam.jpg
-wilscod01,Cody Wilson,WSN,0.0,0.0,,Pinch Hitter,R,R,74,200,"July 4, 1996",0.00,https://www.baseball-reference.com/req/202108020/images/headshots/c/c076985f_mlbam.jpg
+milljus01,Justin Miller,26,1,1,10.0,Pitcher,R,R,75,225,"June 13, 1987",3.083,https://www.baseball-reference.com/req/202108020/images/headshots/0/01ebc3b2_mlbam.jpg
+pereher01,Hernan Perez,,,,,"Third Baseman, Outfielder and Second Baseman",R,R,73,213,"March 26, 1991",5.1,https://www.baseball-reference.com/req/202108020/images/headshots/0/0dda67aa_mlbam.jpg
+reetjak01,Jakson Reetz,30,0,0,,Pinch Hitter and Catcher,R,R,72,205,"January 3, 1996",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/7/740e5f57_mlbam.jpg
+riveren01,Rene Rivera,,,,,Catcher,R,R,70,215,"July 31, 1983",8.107000000000001,https://www.baseball-reference.com/req/202108020/images/headshots/b/b09b2edb_mlbam.jpg
+rodrjef01,Jefry Rodriguez,30,0,0,,Pitcher,R,R,78,232,"July 26, 1993",1.089,https://www.baseball-reference.com/req/202108020/images/headshots/4/485bfafd_mlbam.jpg
+sancadr01,Adrian Sanchez,30,0,0,,"Pinch Hitter, Second Baseman and Third Baseman",R,R,72,208,"August 16, 1990",1.083,https://www.baseball-reference.com/req/202108020/images/headshots/2/2ead3b85_mlbam.jpg
+schemax01,Max Scherzer,14,1,1,,Pitcher,R,R,75,208,"July 27, 1984",12.079,https://www.baseball-reference.com/req/202108020/images/headshots/6/65381047_mlbam.jpg
+schwkyl01,Kyle Schwarber,4,1,1,,Leftfielder and Catcher,L,R,72,229,"March 5, 1993",5.086,https://www.baseball-reference.com/req/202108020/images/headshots/2/2a82d8dc_mlbam.jpg
+turntre01,Trea Turner,14,1,1,,"Shortstop, Second Baseman and Centerfielder",R,R,74,185,"June 30, 1993",4.135,https://www.baseball-reference.com/req/202108020/images/headshots/7/7ba8f9ac_mlbam.jpg
+wilscod01,Cody Wilson,30,0,0,,Pinch Hitter,R,R,74,200,"July 4, 1996",0.0,https://www.baseball-reference.com/req/202108020/images/headshots/c/c076985f_mlbam.jpg

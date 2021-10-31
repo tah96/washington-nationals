@@ -1,4 +1,6 @@
-CREATE TABLE "Team" (
+DROP TABLE IF EXISTS team;
+
+CREATE TABLE team (
     "teamID" varchar(2)   NOT NULL,
     "teamAbbrev" varchar(3)   NOT NULL,
     "teamFullName" varchar(255)   NOT NULL,

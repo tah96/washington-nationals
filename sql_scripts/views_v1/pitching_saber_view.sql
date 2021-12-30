@@ -1,6 +1,7 @@
 SELECT
 	pgam.*,
-	ROUND(100*(pgam."era"+(pgam."era"-(pgam."era"*pfac."basic"/100)))/ lgera."lg_era",2) as era_minus
+	ROUND(100*(pgam."era"+(pgam."era"-(pgam."era"*pfac."basic"/100)))/ lgera."lg_era",2) as era_minus,
+	ROUND(100*(pgam."fip"+(pgam."fip"-(pgam."fip"*pfac."basic"/100)))/ lgera."lg_fip",2) as fip_minus
 FROM
 	(SELECT
 		ps."playerID",
@@ -35,7 +36,8 @@ FROM
 	WHERE team = '30') as pfac,
 	(SELECT
 		tm."teamLeague",
-		ROUND(CAST(SUM(ltps."oppEarnRuns")/(SUM(FLOOR(ltps."innPitch")*3 + ROUND(CAST(ltps."innPitch" - FLOOR(ltps."innPitch") as numeric),1)*10)/3)*9 as numeric),2) as lg_era
+		ROUND(CAST(SUM(ltps."oppEarnRuns")/(SUM(FLOOR(ltps."innPitch")*3 + ROUND(CAST(ltps."innPitch" - FLOOR(ltps."innPitch") as numeric),1)*10)/3)*9 as numeric),2) as lg_era,
+	 	ROUND(CAST((((SUM(ltps."oppHomeRuns")*13 + SUM(ltps."oppBB" + ltps."oppHBP")*3 - SUM(ltps."pStrikeouts")*2) /(SUM(FLOOR(ltps."innPitch")*3 + ROUND(CAST(ltps."innPitch" - FLOOR(ltps."innPitch") as numeric),1)*10)/3)) + 3.169)as numeric),2) as lg_fip
 	FROM league_team_pitch_stats as ltps
 	INNER JOIN team as tm
 		ON ltps."teamID" = tm."teamID"
@@ -44,4 +46,6 @@ FROM
 	
 --In future there should be a joins statement for team, league and player to adjust for era dynamically
 --	instead of hardcording.
+
+--Need to figure out how to get FIP Constant from 2021 into calculations
 ;

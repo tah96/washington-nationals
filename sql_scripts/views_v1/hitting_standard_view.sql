@@ -6,6 +6,7 @@ SELECT
 	SUM(hs."pHits") as "pHits",
 	SUM(hs."pStrikeouts") as "pStrikeouts",
 	SUM(hs."pBB") as "pBBs",
+	SUM(hs."pRuns") as "pRuns",
 	(SUM(hs."pHits") - SUM(hs."p2B" + hs."p3B" + hs."pHR")) as "pSingles",
 	SUM(hs."p2B") as "pDoubles",
 	SUM(hs."p3B") as "pTriples",
@@ -24,4 +25,6 @@ GROUP BY hs."playerID",plyr."teamID"
 ORDER BY CAST(plyr."teamID" as INT) DESC
 ;
 
---Something seems off with At Bats calculation
+--Issue where games in which player hit more than 1 of an XBH is not counting in appropriate column. Example: May 14, Jun 6 and Jul 5 for Victor Robles.
+--April 10, July 16 and July 19 examples for games where Juan Soto hit more than 1 HR in a game.
+--

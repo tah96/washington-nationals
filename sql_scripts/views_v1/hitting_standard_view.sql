@@ -24,7 +24,4 @@ INNER JOIN player as plyr
 GROUP BY hs."playerID",plyr."teamID"
 ORDER BY CAST(plyr."teamID" as INT) DESC
 ;
-
---Issue where games in which player hit more than 1 of an XBH is not counting in appropriate column. Example: May 14, Jun 6 and Jul 5 for Victor Robles.
---April 10, July 16 and July 19 examples for games where Juan Soto hit more than 1 HR in a game.
---Jul 3rd Dodgers Game
+-- Need to rescrape and not perform manual reload.

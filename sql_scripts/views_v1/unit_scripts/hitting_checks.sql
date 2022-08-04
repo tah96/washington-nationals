@@ -1,4 +1,4 @@
---June 20 solved
+--June 20, July 23, May 11, May 9.
 
 SELECT *
 FROM hitting_stats as hs2

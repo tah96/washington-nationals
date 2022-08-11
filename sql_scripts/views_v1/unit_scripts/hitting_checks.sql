@@ -1,4 +1,4 @@
---June 20, July 23, May 11, May 9, June 8, Sept 10,  June 19, July 1 (next in line)
+--June 20, July 23, May 11, May 9, June 8, Sept 10 G,  June 19 G, July 1 G, June 15 G, April 27 G, May 13 G, May 9 G
 
 SELECT *
 FROM hitting_stats as hs2

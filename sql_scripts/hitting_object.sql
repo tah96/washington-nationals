@@ -1,3 +1,5 @@
+DROP TABLE public.hitting_stats;
+
 CREATE TABLE public.hitting_stats
 (
     "gameID" character varying(255) COLLATE pg_catalog."default" NOT NULL,
